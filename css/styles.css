@@ -40,6 +40,10 @@ body{
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid rgb(224, 224, 224);
+    transition: all 0.3s ease;
+}
+.profile-card .profile-image img:hover{
+    transform: scale(1.05);
 }
 .profile-card .profile-content{
     margin-top: 20px;
