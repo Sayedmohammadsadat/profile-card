@@ -32,7 +32,6 @@ body{
     width: 200px;
     height: 200px;
     margin-top: 30px;
-    
 }
 
 .profile-card .profile-image img{
@@ -40,6 +39,8 @@ body{
     height: 100%;
     border-radius: 50%;
     object-fit: cover;
+    border: 5px solid rgb(224, 224, 224);
+
 }
 .profile-card .profile-content{
     margin-top: 20px;
