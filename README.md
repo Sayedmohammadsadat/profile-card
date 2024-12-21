@@ -20,13 +20,14 @@ To use the Profile Card in your project, simply include the `index.html` and `cs
 2. Open `index.html` in your browser to see the profile card in action.
 
 ## File Structure
-profile-card/
-├── css/
-│   └── styles.css
-├── fonts/
-│   └── Poppins-Bold.ttf
-├── images/
-│   └── image.JPG
-├── index.html
-└── README.md
 
+| Folder/File       | Description                           |
+|-------------------|---------------------------------------|
+| `css/`            | Contains the CSS files                |
+| `css/styles.css`  | Main stylesheet for the profile card  |
+| `fonts/`          | Contains the custom fonts             |
+| `fonts/Poppins-Bold.ttf` | Poppins-Bold font file         |
+| `images/`         | Contains the images                   |
+| `images/image.JPG`| Profile image                         |
+| `index.html`      | Main HTML file                        |
+| `README.md`       | Project documentation                 |
